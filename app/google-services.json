@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "656567559730",
+    "firebase_url": "https://etsupdate-5868d.firebaseio.com",
+    "project_id": "etsupdate-5868d",
+    "storage_bucket": "etsupdate-5868d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:656567559730:android:c9fddaac42ab303fa13e2b",
+        "android_client_info": {
+          "package_name": "com.example.etsupdate"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "656567559730-u0il9lj7r6h2i3o1jlom9ib8t7qaf8mb.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.etsupdate",
+            "certificate_hash": "7dcee6d8670d700f6f3a5bde61dc2994bb780389"
+          }
+        },
+        {
+          "client_id": "656567559730-1d5bdgm2id6m67fccuag3f2dop7bferh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAGQNsAXyMZ8FUb6pxv62cva5UhQTSjzOw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "656567559730-1d5bdgm2id6m67fccuag3f2dop7bferh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
